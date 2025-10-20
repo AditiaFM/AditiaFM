@@ -1,6 +1,6 @@
 # 👋 Hi, Saya Moc. Aditia Firman Maulana!
 
-div align="center">
+<div align="center">
   <!-- Animated Name Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Front%20End%20Developer&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
 </div>
