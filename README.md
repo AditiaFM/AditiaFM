@@ -23,7 +23,7 @@
 ## 🛠️ Bahasa and Alat
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode,figma&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma&perline=5" />
 </p>
 
 ---
