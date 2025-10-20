@@ -30,6 +30,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=ADIT&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=180&text=ADIT&fontAlign=50&fontSize=70&desc=Coding%20Dreams%20into%20Reality&descAlign=50&descAlignY=65&rotate=0" />
+
 ## 🐍 Contribution Snake
 
 <div align="center">
