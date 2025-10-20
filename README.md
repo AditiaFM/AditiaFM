@@ -11,12 +11,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I'm currently working on **AI Projects**
-- 🌱 I'm currently learning **Dart and Kotlin**
-- 👯 I'm looking to collaborate on **Open Source**
-- 💬 Ask me about **JavaScript, Python, Dart**
-- 📫 How to reach me: **aditchiron@gmail.com**
-- ⚡ Fun fact: **like ngoding love kopag☕**
+- 🔭 Saya sedang bekerja di **AI Projects**
+- 🌱 Saya sekarang belajar **Dart and Kotlin**
+- 👯 Saya sedang melihat kolaborasi **Open Source**
+- 💬 Tanya saya tentang **JavaScript, Python, Dart**
+- 📫 Bagaimana cara menghubungi saya: **aditchiron@gmail.com**
+- ⚡ Fakta unik: **like ngoding love kopag☕**
 
 ---
 
