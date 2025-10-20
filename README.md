@@ -1,31 +1,26 @@
-# 👋 Hi there, I'm Moc. Aditia Firman Maulana!
+# 👋 Hi, Saya Moc. Aditia Firman Maulana!
 
-<div align="center">
-  
-  <!-- Animated Wave -->
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
-  
+div align="center">
+  <!-- Animated Name Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Front%20End%20Developer&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 Tentang saya
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I'm currently working on **AI Projects**
-- 🌱 I'm currently learning **Web3 & Blockchain**
+- 🌱 I'm currently learning **Dart and Kotlin**
 - 👯 I'm looking to collaborate on **Open Source**
-- 💬 Ask me about **JavaScript, Python, React**
-- 📫 How to reach me: **yourname@gmail.com**
-- ⚡ Fun fact: **I code with coffee ☕**
+- 💬 Ask me about **JavaScript, Python, Dart**
+- 📫 How to reach me: **aditchiron@gmail.com**
+- ⚡ Fun fact: **like ngoding love kopag☕**
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Bahasa and Alat
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode,figma&perline=5" />
@@ -49,15 +44,6 @@
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AditiaFirman&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
@@ -65,8 +51,6 @@
 </div>
 
 ---
-
-## 🐍 Contribution Snake
 
 ## 🐍 Contribution Snake
 
